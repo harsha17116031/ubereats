@@ -1,3 +1,3 @@
 # Uber Eats Database Design
 
-![er diagram of the uber eats system design](https://github.com/harsha17116031/ubereats/tree/main/src/updatedER.png)
+![er diagram of the uber eats system design](/src/updatedER.png)
